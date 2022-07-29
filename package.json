@@ -33,7 +33,7 @@
     "typescript": "4.7.4"
   },
   "dependencies": {
-    "@discordjs/builders": "0.16.0",
+    "@discordjs/builders": "1.1.0",
     "@discordjs/rest": "0.6.0",
     "@emotion/react": "11.9.3",
     "@emotion/styled": "11.9.3",
