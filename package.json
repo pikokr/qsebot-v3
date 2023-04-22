@@ -52,7 +52,7 @@
     "discord-api-types": "0.37.39",
     "discord.js": "13.14.0",
     "dokdo": "0.6.2",
-    "emoji-mart": "3.0.1",
+    "emoji-mart": "5.5.2",
     "express": "4.18.2",
     "ioredis": "4.28.5",
     "koa": "2.14.2",
